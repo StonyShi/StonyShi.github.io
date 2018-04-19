@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: StonyShi@gmail.com
 description: ""
 keyword: ""
-url: "http://StonyShi.github.io"              # your host, for absolute URL
+url: "http://stonyshi.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -62,7 +62,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: stonyshi.github.io
 
 
 
